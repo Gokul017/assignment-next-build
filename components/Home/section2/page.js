@@ -5,9 +5,9 @@ import { Container, Row, Col, Button } from 'react-bootstrap';
 export default function Section1(){
 
     const repData = [
-                    {repImage: '/img/img-body-armor.jpg', pubYear: 'July 2023', repTitle:'Global Body Armor Plates Market', repDesc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.' },
-                    {repImage: '/img/img-composite-concrete-deck.jpg', pubYear: 'Aug 2023', repTitle:'Global Composite Concrete Deck Market', repDesc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.' },
-                    {repImage: '/img/img-bitcoin.jpg', pubYear: 'Sept 2023', repTitle:'Global Lorem Ipsum Dolor Market', repDesc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.' }
+                    {repImage: './img/img-body-armor.jpg', pubYear: 'July 2023', repTitle:'Global Body Armor Plates Market', repDesc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.' },
+                    {repImage: './img/img-composite-concrete-deck.jpg', pubYear: 'Aug 2023', repTitle:'Global Composite Concrete Deck Market', repDesc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.' },
+                    {repImage: './img/img-bitcoin.jpg', pubYear: 'Sept 2023', repTitle:'Global Lorem Ipsum Dolor Market', repDesc: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.' }
                     ];                    
 
     return(

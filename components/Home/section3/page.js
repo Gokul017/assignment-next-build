@@ -4,10 +4,10 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 export default function Section3(){
     const section2Data = [
-                            {icon : '/img/analytics.png', text: 'Text 1 : Lorem ipsum dolor sit amet, consectetur adipisicing elit ', color: 'bg-c-green'},
-                            {icon : '/img/analytics.png', text: 'Text 2 : Lorem ipsum dolor sit amet, consectetur adipisicing elit ', color: 'bg-c-blue'},
-                            {icon : '/img/analytics.png', text: 'Text 3 : Lorem ipsum dolor sit amet, consectetur adipisicing elit ', color: 'bg-c-orange'},
-                            {icon : '/img/analytics.png', text: 'Text 4 : Lorem ipsum dolor sit amet, consectetur adipisicing elit ', color: 'bg-c-red'},
+                            {icon : './img/analytics.png', text: 'Text 1 : Lorem ipsum dolor sit amet, consectetur adipisicing elit ', color: 'bg-c-green'},
+                            {icon : './img/analytics.png', text: 'Text 2 : Lorem ipsum dolor sit amet, consectetur adipisicing elit ', color: 'bg-c-blue'},
+                            {icon : './img/analytics.png', text: 'Text 3 : Lorem ipsum dolor sit amet, consectetur adipisicing elit ', color: 'bg-c-orange'},
+                            {icon : './img/analytics.png', text: 'Text 4 : Lorem ipsum dolor sit amet, consectetur adipisicing elit ', color: 'bg-c-red'},
                         ];
     return(
         <>    

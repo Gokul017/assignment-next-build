@@ -19,7 +19,7 @@ export default function Section5(){
                         </div>
                         <div className="pr-img-div">						
                             <div className="pr-img">						
-                            <Image src="/img/green-mining-market.jpg" alt="Green Mining Market" width={800} height={350} className="img-fluid" />			
+                            <Image src="./img/green-mining-market.jpg" alt="Green Mining Market" width={800} height={350} className="img-fluid" />			
                             </div>
                             <Link href="#" className="text-reset text-decoration-none">
                             <div className="read-all-pr text-white">Read all press release <i className="fa fa-angle-right"></i></div>	
@@ -36,7 +36,7 @@ export default function Section5(){
                         </div>
                         <div className="pr-img-div">						
                             <div className="pr-img">
-                            <Image src="/img/education-computing-devices-market.jpg" alt="Education Computing Devices Market" width={800} height={350} className="img-fluid" />
+                            <Image src="./img/education-computing-devices-market.jpg" alt="Education Computing Devices Market" width={800} height={350} className="img-fluid" />
                             </div>
                             <Link href="" className="text-reset text-decoration-none">
                             <div className="read-all-pr text-white">Read all press release <i className="fa fa-angle-right"></i></div>	
